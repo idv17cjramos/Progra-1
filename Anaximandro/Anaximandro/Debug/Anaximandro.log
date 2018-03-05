@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\royra\documents\visual studio 2017\projects\anaximandro\anaximandro\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\royra\documents\visual studio 2017\projects\anaximandro\anaximandro\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\royra\documents\visual studio 2017\projects\anaximandro\anaximandro\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\royra\documents\visual studio 2017\projects\anaximandro\anaximandro\main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Anaximandro.vcxproj -> C:\Users\royra\documents\visual studio 2017\Projects\Anaximandro\Debug\Anaximandro.exe
+  Anaximandro.vcxproj -> C:\Users\royra\documents\visual studio 2017\Projects\Anaximandro\Debug\Anaximandro.pdb (Partial PDB)
