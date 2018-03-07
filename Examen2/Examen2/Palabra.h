@@ -15,11 +15,12 @@ class Palabra
 {
 public:
 	Palabra();
+	Palabra(std::string Palabrita);
 	~Palabra();
 	std::string palabra;
 	TipoDePalabra tipo;
 	
-	
+	Palabra operator=(std::string);
 
 };
 

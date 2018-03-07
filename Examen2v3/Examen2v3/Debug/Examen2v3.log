@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\royra\documents\visual studio 2017\projects\examen2v3\examen2v3\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Palabra.cpp
+  Examen2v3.vcxproj -> C:\Users\royra\Documents\Visual Studio 2017\Projects\Examen2v3\Debug\Examen2v3.exe
+  Examen2v3.vcxproj -> C:\Users\royra\Documents\Visual Studio 2017\Projects\Examen2v3\Debug\Examen2v3.pdb (Partial PDB)
