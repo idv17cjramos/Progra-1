@@ -1,0 +1,13 @@
+Vida
+100
+
+Exp
+0
+
+Dinero
+0
+
+Inventario
+
+Ubicacion
+0
