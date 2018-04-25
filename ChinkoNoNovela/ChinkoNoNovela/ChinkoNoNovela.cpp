@@ -29,10 +29,9 @@ int main()
 		std::cin >> accion;
 		if (accion == "help")
 		{
-			std::cout << "Te la pelas" << std::endl;
-			Sleep(3000);
-			std::cout << "A nu ma no sierto" << std::endl;
-			std::cout << "Opciones: ";
+			std::cout << "Desplegando opciones" << std::endl;
+			Sleep(1000);
+			std::cout << "Tus opciones son: ";
 			laNovela.at(salto).displayActions();
 		}
 		else if (accion == "save")
@@ -47,7 +46,7 @@ int main()
 		{
 			int accionSalto = laNovela.at(salto).returnJump(accion);
 			if (accionSalto == -42)
-				std::cout << "Come Pija" << std::endl;
+				std::cout << "Uy, hubo un error :s" << std::endl;
 			else
 				salto = accionSalto;
 

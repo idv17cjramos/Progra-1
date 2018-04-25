@@ -1,19 +1,103 @@
-4
-0 Buen dia joven elfo
+40
+0 Buen dia joven elfo (Escribe help en cualquier momento para ver comandos)
 2
 saludar 1
-patear 2
+golpear 2
 
-1 Que amable :D
+1 Que amable, quisieras ir en una aventura? :D
+2
+si 2
+no 0
+
+2 Puedo ver que no estas preparado para la batalla, quieres una espada?
+2
+si 3 
+no 0
+
+3 Quieres un escudo?
+2
+si 4
+no 2
+
+4 Quieres LA DAGA DIENTEDRAGON SUPREMA DEL PODER OLIMPICO DE LOS DIOSES NORDICOS?
+2
+si 5
+no 6
+
+5 Claro, solo necesito compres los 5 DLC de este juego por 69.99 usd, aceptas?
+2
+si 7
+no 4
+6 Comprensible, muy bien. comencemos!
+2
+vamos 8
+espera 9
+
+7 Buena esa calamardo
 1
-si 3
+regresar 5
 
-2 CTM Puto.
-1
-disculparse 0
+8 Te encuentras en frente de un castillo, tienes una oportunidad para atravesarlo y rescatar el ciberchistin, es el mejor memeringo jamas creado y lo necsitas
+2
+entrar 9
+salir 0
 
-3 Puedo ver que trae una suculenta loli con usted
+9 Al entrar ves a un guardia, te girta pero que le BALGA Berga señora, quieres ese memeringo. Atacas?
 3
-awebo 4
-NoComparto 2
-Quieres? 5 
+si 10
+no 11
+Kamehameha 12
+
+10 Lo atacaste con tu espada, te hizo un poco de daño, pero puedes seguir. Quieres ir adelante o a la izquierda?
+2
+adelante 13
+izquierda 14
+
+11 Te moriste ALV
+1
+ok 0
+
+12 De la nada sientes un chorro de energia que fluye por ti, abres los ojos y puedes verlo todo, es hora de hacerlo. Lentamente tomas la mitica posicion y comienzas a gritar. KAAA MEEEEE HAAAAA MEEEEE HAAAAAAAAAAyyyy destruiste el castillo y el ciberchistin, bien hecho.
+1
+ok 8
+
+13 Entras a otro cuarto. Está obscuro así que sacas tu antorcha marca ACME, la enciendes por unos segudnos y logras ver dos puertas. Una con un meme y otra con un momo. Cual elijes?
+2
+meme 15
+momo 16
+
+14 ITS A TRAP!!  Sale un Astoflo Plushie, te quita todas tus cosas mientras te da unas lamidas de pistache y te haces GOI, de la nada Leito Sama llega,es tu fin y lo sabes Uy!
+1
+umu 8
+
+15 Llegas al siguiente cuarto. Dentro de el puedes ver que hay 3 demonios. Cada uno enfrente de una puerta. Te dicen que para pasar tienes que elegir el mejor meme antiguo para poder pasar.
+3
+liekIfUcrieEvriTiem 16
+IMMAFIRINGMYLAAAOZORR 17
+DarudeSandstorm.mp4 18
+
+16 Que acaso eras emo en el 2008? vuelve a intentar.
+1
+rawr 15
+
+17 Creo que alguien jugaba mucho en newgrounds en 2009, tienes que ser mas rapido!!
+1
+3fast5u 15
+
+18 Entras por la puerta, y un destello de luz te ilumina. Es hermoso, es hilarante, es politicamente incorrecto, es el mejor meme de la historia. tu vida se ha completado y puedes morir en paz.  FIN...
+2
+salir 0
+rili? 19
+
+19 Si, es el final. Que mas esperabas? este programa hace todo lo que necesitaba, tuviste batallas epicas, aventura, accion, trapos, memes y explosiones *EKUSUPUROSHION in the distance* acaso querías mas?
+2
+si 20
+taWeno 0
+
+20 Bien si cierras los ojos y cuentas hasta 10, te voy a dar una aventura.
+1
+ok 21
+
+21 Busca a Rodrigo. El sabe cómo continuar
+1 
+ok 0
